@@ -1,6 +1,6 @@
 # Yelp-Camp
 Requirements
-VSCode,WindowsPoerShell/cmd
+VSCode,WindowsPowerShell/cmd
 
 It is a FullStack Web-App for Campgrounds .
 It has a very good UI and visuals along with map for better understanding of the Campgrounds. 
